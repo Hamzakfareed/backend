@@ -92,7 +92,10 @@ exapmle:
 
 Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20iLCJleHAiOjE2MjEzNDgxMjYsImlhdCI6MTYyMDc0MzMyNn0.n88AbXg9wuyc9WQcalTtOEYRwpiksLWKDI_aNJq_DDb9vVKGMJMfwpAj7A4NhUqmz-2e_5R6ixxgeayCjuvybQ
 
-POST:  http: //localhost:8080/users/1/tickets { "message": "this is for testing"
+POST:  http: //localhost:8080/users/1/tickets
+{
+
+"message": "this is for testing"
 
 }
 
